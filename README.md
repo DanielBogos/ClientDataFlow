@@ -101,7 +101,10 @@ These are the informations needed by the client:
     ├── Summary tables used for dashboards
 
 /sql_scripts
-    ├── aggregation_orders.sql
-    ├── aggregation_inventory.sql
+    ├── select_fields_needed.sql
+    ├── orders_ingredients_aggregation.sql
+    ├── sales_orders_hourly.sql
     ├── aggregation_staff.sql
+    ├── stock_left.sql
+    ├── stock_used.sql
 
