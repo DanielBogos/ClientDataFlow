@@ -4,6 +4,8 @@
 ![Navicat](https://img.shields.io/badge/Tool-Navicat-lightgrey)
 ![Power BI](https://img.shields.io/badge/Visualization-Power%20BI-yellow)
 ![CSV Files](https://img.shields.io/badge/Data-CSV-important)
+![Connector](https://img.shields.io/badge/MySQL%20Connector-NET%209.3-green)
+
 
 ## 📚 Overview
 This project involved designing a **relational database** and building **interactive dashboards** for a pizzeria client.  
@@ -36,6 +38,7 @@ The goal was to transform raw CSV files into a clean, normalized database struct
 
 ### 4. Dashboard Development
 - Imported the processed data into **Power BI**.
+- Used MySQL Connectar/NET 9.3 to connect my aggregation data to PowerBI.
 - Built three separate dashboards:
   - **Sales & Revenue**
   - **Inventory Management**
