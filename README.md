@@ -80,14 +80,16 @@ These are the informations needed by the client:
 
 ## 📂 Project Structure
 
-/database_schema
-    ├── ERD Diagram (QuickDBD)
-    ├── SQL Scripts (Table Creation & Inserts)
+/creating_database
+    ├── ERD Diagram - database_schema.sql
+    ├── SQL Scripts - data_population.sql
 
 /dashboards
-    ├── Sales_Dashboard.pbix
-    ├── Inventory_Dashboard.pbix
-    ├── Staff_Dashboard.pbix
+    ├── Dashboard_pizzeria.pbix
+    Dashboards Name:
+    - Orders
+    - Inventory
+    - Staff Dashboard
 
 /raw_data
     ├── CSV Files (provided by client)
